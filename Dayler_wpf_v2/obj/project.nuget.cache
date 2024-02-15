@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yz1QfQZxG4yHjxrDGOLx+BmosI6yD4PlI68a7JfGAPCEyx+3Zb2Cdb/5wwNahXLtaOIQTxhaC4OGO7qnb3AF/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\serge\\source\\repos\\Dayler_wpf_v2\\Dayler_wpf_v2\\Dayler_wpf_v2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\serge\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
